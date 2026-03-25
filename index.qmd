@@ -1,5 +1,5 @@
 ---
-title: "[`{tidyplots}`](https://tidyplots.org) for easy data visualization"
+title: "[`{tidyplots}`](https://tidyplots.org)<br>for easy data visualization"
 author: "[RNVSU](https://www.meetup.com/r-nvsu/) | [Dr. Jan Broder Engler](https://jbengler.de)"
 date: 2026-03-25
 date-format: "MMMM D, YYYY"
@@ -15,7 +15,7 @@ format:
 title-slide-attributes:
   data-background-image: images/bg.png
   data-background-size: 25%
-  data-background-position: 1000px 150px
+  data-background-position: 920px 150px
   style: "margin-left: -80px;"
 ---
 ## 📢 Zoom Meetup Event Reminders {.smaller}
